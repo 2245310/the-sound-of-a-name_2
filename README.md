@@ -25,9 +25,9 @@ The project explores the idea that a name can be read as a mathematical system r
 - Replace default sounds with your own recordings
 - High-resolution poster export with the generated loop artwork
 
-## Running the project
+## Running the project (on a Terminal)
 
-1. Clone this repository.
+1. Clone this repository (using git clone <repository url>
 2. Install the dependencies:
 
 ```bash
@@ -40,7 +40,7 @@ npm install
 npm run dev
 ```
 
-4. Open the local address shown in the terminal.
+4. Open the local address shown in the terminal on a browser
 
 ## Built with
 
