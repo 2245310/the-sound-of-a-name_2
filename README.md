@@ -27,7 +27,7 @@ The project explores the idea that a name can be read as a mathematical system r
 
 ## Running the project (on a Terminal)
 
-1. Clone this repository (using git clone <repository url>)
+1. Clone this repository (using git clone "repository url")
 2. Install the dependencies:
 
 ```bash
